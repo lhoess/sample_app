@@ -55,7 +55,7 @@ GEM
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
-    ffi (1.8.1)
+    ffi (1.12.2)
     formatador (0.2.4)
     growl (1.0.3)
     guard (1.7.0)
